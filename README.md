@@ -1,24 +1,8 @@
 # Employee Management System (EMS)
+# By Aniket Ahlawat 
 
 A web-based Employee Management System designed to streamline employee data, attendance, and salary records using JSP, MySQL, and Bootstrap. This system provides secure login, admin panel, dynamic charts, and easy CRUD operations for efficient workforce management.
 
-## 🎯 Objectives
-
-- Implement user authentication and session management.
-- Provide CRUD functionality for managing employees and their salaries.
-- Enable real-time attendance marking and generate attendance reports.
-- Visualize data using charts and provide export options.
-- Ensure a responsive UI with Bootstrap for improved user experience.
-
-
-
-## 🛠️ Technologies Used
-
-- **Frontend**: HTML5, CSS3, Bootstrap 5  
-- **Backend**: JSP (JavaServer Pages), Servlets (optional)  
-- **Database**: MySQL  
-- **Libraries**: Chart.js, Bootstrap JS  
-- **Tools**: VS Code, Apache Tomcat, MySQL Workbench  
 
 ## 📋 Features
 
